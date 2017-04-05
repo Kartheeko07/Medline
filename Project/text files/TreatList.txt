@@ -1,0 +1,676 @@
+Endoscopic excision 
+therapeutic hysteroscopy 
+CT-controlled drainage with a basket catheter system 
+Stereotactic radiosurgery 
+long-acting octreotide ( Sandostatin-LAR ) 
+opioid analgesic administration 
+thoracic paravertebral block ( tpvb ) 
+Hyperbaric or normobaric oxygen 
+Antiplatelet therapy 
+Neostigmine 
+antithrombotic therapy 
+Plasma exchange and tacrolimus-mycophenolate rescue 
+Direct percutaneous transluminal angioplasty 
+Sumatriptan 
+primary angioplasty 
+Pharmacological management 
+left ventricular assist device 
+alteplase 
+anticoagulants 
+Thrombolytic therapy 
+continuous infusion of alteplase with double-bolus administration 
+antibiotic treatment 
+extracorporeal photopheresis 
+direct percutaneous transluminal angioplasty ( PTA ) 
+Continuous renal replacement therapy 
+rectal diazepam gel 
+noninvasive positive-pressure ventilation 
+Pelvic floor stimulation 
+Esophageal intubation 
+adjuvant chemoradiotherapy with CDDP , 5-FU , and VP-16 
+endobronchial treatment modalities 
+rIFN-alpha A 
+recombinant interferon alfa-2a 
+pc 
+paclitaxel plus carboplatin ( pc ) 
+gemcitabine and carboplatin 
+sequential chemotherapy 
+cpt-11 and cddp 
+aggressive chemotherapeutic combinations 
+combination chemotherapy of cisplatin , ifosfamide and irinotecan with rhg-csf support 
+oxaliplatin/cyclophosphamide 
+cisplatin 
+unilateral microelectrode-guided posteroventral pallidotomy 
+orchiectomy or oestrogen 
+Nerve-sparing surgery 
+daunorubicin-containing liposomes 
+interferon alpha preparations 
+combination chemotherapy program consisting of bleomycin and methotrexate weekly , doxorubicin every 3 weeks , and topical nitrogen mustard daily ( BAM-M ) 
+BAM-M 
+bleomycin , doxorubicin , and methotrexate with topical nitrogen mustard ( BAM-M ) 
+gemifloxacin 
+acupuncture 
+Prolonged cortisone therapy 
+New drug treatment 
+combination of antibiotic therapy and surgical interventions 
+concomitant radiotherapy and chemotherapy 
+Continuous arteriovenous hemofiltration 
+androgens 
+angioplasty 
+Amoxicillin 
+systemic antibiotics 
+Thalidomide 
+allogeneic BMT 
+amiodarone 
+TRK-530 
+Celecoxib 
+Inhaled sodium cromoglycate 
+inhaled fluticasone propionate 
+T-helper type 2 cell-directed therapy 
+Fluticasone propionate 
+repeated inhaled doses of FP 
+drugs 
+self-management 
+salbutamol 
+tacrolimus and ascomycin derivatives 
+quinidine sulphate 
+Inositol 
+adenosine triphosphate 
+atropine
+good glycemic control
+dexamethasone therapy 
+cephalosporin ( cefotaxime or ceftriaxone ) and vancomycin 
+combined therapy 
+Medical treatments 
+Acid suppression therapy 
+argon plasma coagulation with acid suppression 
+phytogenic drugs 
+pharmacological treatment 
+curative pancreaticoduodenectomy 
+cholecystectomy 
+injection of minocycline hydrochloride 
+lithium carbonate 
+omega3 fatty acids 
+surgical or radiological methods 
+Endoscopic hemostasis 
+Fludarabine 
+therapy with extracorporeal photopheresis 
+Standard versus high-dose therapy 
+High-dose chemotherapy with autologous hematopoietic stem-cell support 
+subcutaneous mastectomy 
+systemic therapy 
+magnetic-resonance pelvimetry 
+Non-steroidal anti-inflammatory therapy 
+antibiotics and surgery 
+Bilateral lung transplantation 
+cyclophosphamide therapy 
+resection 
+carinal resections 
+carinal resection 
+Matrix metalloproteinase inhibitors 
+Shark cartilage 
+therapy 
+hyperbaric oxygen 
+oxygen therapy 
+esophagectomy 
+curative surgery 
+right thoracotomy 
+beta-blockers 
+Calcium antagonists 
+Antiplatelet therapy with aspirin and systematic anticoagulation with warfarin 
+verapamil 
+surgery with PC IOL implantation 
+neodymium : YAG laser 
+ES 
+Surgical clearance 
+gamma knife radiosurgery 
+Hyperbaric oxygen therapy 
+Dipyridamole plus aspirin 
+antimicrobial/ antituberculous agents 
+admil-12 and admil-12/b7 
+Hepatectomy 
+TRAIL 
+Inchinko-to ( TJ-135 ) 
+External beam radiation therapy 
+botulinum toxin 
+iBDP therapy 
+cefdinir 
+lamivudine 
+Combined interferon and lamivudine therapy 
+Combination therapy with interferon-alpha ( IFN alpha ) plus Ribavirin 
+combination therapy with interferon alfa and ribavirin 
+Interferon-antibodies 
+combination therapy ( interferon alfa and ribavirin ) 
+interferon-alpha plus ursodeoxycholic acid 
+interferon alpha2b plus ribavirin 
+interferons 
+Epoetin 
+parenteral nutrition ( PN ) solutions 
+External counterpulsation 
+neurokinin 1 receptor antagonist CJ-11 , 974 
+radical prostatectomy 
+PL granule 
+casein hydrolysate 
+Haematoma block 
+5-fu and low-dose isovorin ( f.i ) 
+Elective surgery 
+hepatic arterial chemotherapy 
+video-assisted thoracoscopic surgical ( vats ) therapeutic pulmonary metastasectomy 
+therapeutic vats resection 
+therapeutic vats metastasectomy 
+Zinc gluconate lozenges 
+Antimicrobials 
+zinc 
+vitamin C 
+Zinc lozenges 
+levofloxacin 
+extended resection 
+TJ-135 
+Japanese herbal medicine 'Inchinko-to ' ( TJ-135 ) 
+nasal decongestant 
+cisapride 
+emergency coronary surgery 
+Drug therapy 
+Antichlamydial antibiotics 
+Accelerated infusion of alteplase ( tissue plasminogen activator ) 
+pediculicide containing 1 % permethrin 
+glucocorticoids 
+Steroid delivery 
+antiretroviral therapy 
+AHF 
+single-place caisson 
+South African devil 's claw ( Harpagophytum procumbens DC ) 
+Devil 's Claw ( Harpagophytum procumbens ) 
+amitriptyline 
+Medication 
+Physiologic treatment 
+hdIVIg 
+classic oral antidiabetic drugs ( sulfamides and biguanides ) 
+Aspirin therapy 
+granulocyte-colony stimulating factor 
+One-lung ventilation 
+Lignocaine 
+fine needle aspiration cytology 
+leukocyte A recombinant interferon ( rIFN-alpha A , Roferon-A , Hoffmann La Roche ) 
+Recombinant leukocyte A interferon ( rIFN-alpha A ) 
+n-acetylcysteine ( and some other sulfhydryl donors ) 
+corticosteroids 
+Low-dose clozapine 
+stent therapy 
+Ropinirole monotherapy 
+ropinirole , a nonergoline D2-dopamine agonist 
+Ropinirole 
+Coronary angioplasty 
+Chemotherapy with praziquantel 
+augmenting down-regulatory Th1 counterbalancing mechanisms 
+laparoscopic cholecystectomy 
+Lung volume reduction surgery 
+thoracoscopy 
+Continuous arterio-venous hemofiltration 
+apc 
+clomiphene citrate 
+tocopherol 
+methylphenidate 
+Spinal manipulation 
+High-dose chemotherapy with autologous stem-cell support 
+indomethacin 
+botulinum toxin injection 
+stents 
+stent 
+covered metallic stent 
+metallic stents 
+covered-ems 
+moxonidine 
+salmeterol treatment 
+reconstructive surgery 
+irinotecan and cisplatin combination 
+irinotecan in combination with cisplatin ( platinol ) 
+intensive chemotherapy 
+Arthrodesis of the first metatarsophalangeal joint 
+liver-assist devices 
+DHA-concentrated fish oil capsules_Hlk427554600 ( 2.2 g of DHA and 0.6 g of eicosapentanoic acid ( EPA ) per day ) 
+surgical procedures 
+surgical management 
+surgical treatment 
+Low-dose steroids 
+G-CSF treatment 
+endoscopic removal 
+two triazole antifungal agents , fluconazole and itraconazole 
+interventional radiologic procedures 
+gastrectomy 
+partial gastrectomy with Roux-en-Y gastrojejunostomy 
+peri- and postoperative management 
+Brimonidine tartrate 
+transperineal sonography-guided iodine-125 brachytherapy 
+GH therapy 
+exploratory celiotomy 
+amifostine 
+antileukemic therapy 
+1 % permethrin 
+atrioventricular junction ablation and VVIR pacemaker 
+pharmaceutically combined with life style counselling 
+laser treatment 
+microcoil embolization 
+mr-guided rfa using single cooled tip electrodes 
+immunoadhesin containing the cysteine-rich region of HAV cellular receptor-1 
+Ribavirin 
+Ribavirin in combination with IFN alpha 
+artichoke extracts ( Cynara scolymus L. ) 
+Adrenal-sparing su
+ACE inhibitors
+Acetaminophen
+Acupressure
+Acupuncture
+Acyclovir
+Adenoid removal
+Adequate nutrition
+Adjuvant therapy
+Albendazole
+Aldomet
+Alpha interferon
+Alprazolam
+Alternative treatments
+Amiodarone
+Amoxicillin
+Amphetamines
+Amphotericin B
+Ampicillin
+Amputation
+Analgesics
+Angioplasty
+Animal insulin
+Animal Transplants
+Antacids
+Anthelmintic drugs
+Anti-hypertensives
+Anti-inflammatory drugs
+Anti-pyretics
+Antianxiety drugs
+Antibiotics
+Anticholinergics
+Anticoagulants
+Anticonvulsants
+Antidepressants
+Antidiarrheals
+Antiemetic
+Antifungals
+Antihistamines
+Antihyperlipidemic
+Antimalarials
+Antimicrobial
+Antineoplastic
+Antiparasitic
+Antiparkinsonian
+Antiprostaglandins
+Antiprotozoal
+Antipruitic
+Antipsoriatic
+Antipsychotic
+Antiseptic
+Antispasmodics
+Antithrombotic
+Antitoxin
+Antitrichomonal
+Antitussive
+Antiulcerant
+Antivirals
+Appetite suppressants
+Artificial pacemaker
+Artificial Pancreas
+Artificial respiration
+Aspirin
+Atropine
+Avoid acidic foods
+Avoid aspirin
+Avoid caffeine
+Avoid chocolate
+Avoid contaminated water
+Avoid flea bites
+Avoid needlestick injury
+Avoid sharing drug needles
+Avoid sun exposure
+Avoid ticks
+Avoid unsanitary body piercing methods
+Avoid unsanitary tattoo methods
+Azathioprine
+Baclofen
+Balanced diet
+Barbiturates
+Benzodiazepines
+Benzoyl peroxide
+Beta blockers
+BIDS (Bedtime Insulin Daytime Sulfonylurea)
+Biofeedback
+Biological therapy (immunotherapy)
+Blood glucose meters
+Blood pressure control
+Blood pressure treatments
+Blood transfusions
+Blood treatments
+Bone marrow transplant
+Brace
+Braces
+Breathing exercises
+Bromocriptine
+Bronchodilators
+Brushing teeth
+Caffeine
+Calamine lotion
+Calcium antagonists
+Calcium supplements
+Calcium-channel blockers
+Carbamazepine
+Cardiopulmonary resuscitation
+Cast
+Cautery
+Ceftriaxone
+Cesarian delivery
+Chemotherapy
+Chlorambucil
+Chloramphenicol
+Chloroquine
+Cimetidine
+Ciprofloxacin
+Circumcision
+Citalopram
+Clindamycin
+Clomipramine
+Clonazepam
+Clonidine
+Cocaine
+Codeine
+Cognitive-behavioral therapy
+Colchicine
+Cold therapy
+Colostomy
+Condoms
+Contact lenses
+Control cholesterol
+Control diabetes
+Control weight
+Corneal transplant
+Corticosteroid injections
+Corticosteroids
+Cortisone
+Coumadin
+Counseling
+Counselling
+COX-2 inhibitors
+Crutches
+Cryosurgery
+Curettage
+Cyclophosphamide
+Cyclosporine
+Dairy-avoidance diet
+Decongestants
+Dermabrasion
+Diabetes pills
+Diabetic blood sugar control
+Diazepam
+Diet changes
+Dieting
+Digitalis
+Digoxin
+Diuretics
+Dopamine agonists
+Doxycycline
+DTP vaccination
+Ear surgery
+Education
+Elastic stockings
+Electrical stimulation
+Electroconvulsive therapy
+Elevation
+Emergency medical treatment
+Emergency surgery
+Emergency treatment
+Enema
+Enzyme replacement
+Erythromycin
+Estrogen replacement therapy
+Exercise
+Expired air resuscitation
+External radiation
+Eye drops
+Eye patch
+Eye surgery
+Eyeglasses
+Famotidine
+Feeding tube
+Fluid replacement
+Fluids
+Fluoxetine
+Fluvoxamine
+Gabapentin
+Genetic counselling
+Glucagon
+H2 blockers
+Hand washing
+Healthy weight
+Hearing aids
+Heart surgery
+Heart transplant
+Heat packs
+Heat therapy
+Heparin
+High-calcium diet
+High-salt diet
+Hormone therapy
+Hospitalization
+Hot bath
+Hot water bottle
+Human Insulin Analog (Lispro)
+Human insulins
+Humidifier
+Hydralazine
+Hydrocortisone
+Hygiene changes
+Hypnosis
+Hysterectomy
+Ibuprofen
+Ice pack
+Ice packs
+Ileostomy
+Illicit drugs
+Imipramine
+Immunosuppressive drugs
+Implantable Insulin Pump
+Indomethacin
+Inhaled insulin
+Injected local anesthetic
+Insulin
+Insulin Auto-Injectors
+Insulin Injection Devices
+Insulin jet injectors
+Insulin pens
+Insulin Pill
+Insulin pumps
+Intensive care
+Interferon
+Internal radiation
+Interpersonal therapy (IPT)
+Intravenous antibiotics
+Intravenous feeding
+Intravenous fluids
+Intravenous immunoglobulin
+Intubation
+Iron supplements
+Islet cell transplant
+Joint immobilization
+Ketoconazole
+Kidney dialysis
+Kidney transplant
+Laparoscopic surgery
+Laser treatment
+Laxatives
+Leg exercise
+Lifestyle treatments
+Liquid diet
+Lithium
+Liver transplant
+Low fiber diet
+Low salt diet
+Low saturated fat diet
+Lung transplant
+Magnets
+Manipulation
+MAO inhibitors
+Massage
+Mebendazole
+Mechanical ventilation
+Medications
+Meditation
+Methimazole
+Methotrexate
+Methyldopa
+Metoclopramide
+Metronidazole
+Mineral supplements
+Minocycline
+Minoxidil
+MMR vaccination
+Morphine
+Mosquito repellant
+Multiple Daily Injections
+Muscle strengthening exercises
+Nasal decongestants
+Needle aspiration
+Nitrogen dioxide
+Nitroglycerin
+No treatment
+NSAIDs
+Occupational therapy
+Omeprazole
+Oophorectomy
+Open surgery
+Oral antibiotic
+Oral contraceptives
+Oral steroids
+Oxygen
+Pain relief
+Palliative therapy
+Pancreas transplant
+Paracetamol
+Paroxetine
+Pelvic floor exercises
+Penicillin
+Phenothiazines
+Phototherapy
+Physical activity
+Physical therapy
+Physiotherapy
+Placebo
+Plasmapheresis
+Plaster cast
+Plastic surgery
+Postural drainage
+Potassium supplement
+Potassium supplements
+Pre-Mixed Insulin
+Prednisone
+Preventive antibiotics
+Progestogens
+Properly fitting shoes
+Propoxyphene
+Propranolol
+Propylthiouracil
+Prostatectomy
+Protective clothing
+Proton pump inhibitors
+Psychotherapy
+Quiet
+Quinidine
+Quinine
+Quit smoking
+Radiation therapy
+Radiosurgery
+Range of motion exercises
+Ranitidine
+Reduce alcohol
+Rehabilitation
+Remove ticks immediately
+Reserpine
+Respiratory support
+Rest
+RICE
+Rifampin
+Safe sex
+Salicylic acid
+Salt solutions
+Sedatives
+Sertraline
+Sex habit changes
+Shoulder sling
+Shunt
+Sleeping pills
+Sleeping under bednets
+Sling
+Smaller meals
+Sodium valproate
+Soft foods
+Speech therapy
+Spinal brace
+Spironolactone
+Splint
+Splints
+SSRIs
+Steam inhalation
+Stem cell transplant
+Stent
+Steroids
+Stimulants
+Strengthening exercises
+Streptomycin
+Stress reduction
+Stretching exercises
+Sulfasalazine
+Sulfonylureas
+Sulphonamides
+Sunscreen
+Support groups
+Supportive and symptomatic treatments
+Surgery
+Surgical abscess drainage
+Surgical correction
+Surgical drainage
+Surgical lymph node removal
+Surgical removal
+Surgical repair
+Sympathomimetics
+Symptomatic and supportive treatments
+Tagamet
+Temporary colostomy
+TENS
+Testosterone
+Tetracycline
+Theophylline
+Thiamine injections
+Thyroid pills
+Tizanidine
+Topical corticosteroids
+Topical creams
+Tracheostomy
+Tracheotomy
+Traction
+Tranquilizers
+Transcutaneous electrical nerve stimulation
+Transplants
+Tricyclic antidepressants
+Tumor surgery
+Vaccines
+Vasodilators
+Verapamil
+Viagra
+Vitamin A supplements
+Vitamin B12 supplement
+Vitamin C supplements
+Vitamin D supplements
+Vitamin E supplement
+Vitamin K
+Vitamin supplements
+Warfarin
+Warm bath
+Warm baths
+Whole pancreas transplant
+Window screens
+Xenotransplant

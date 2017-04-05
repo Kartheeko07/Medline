@@ -1,0 +1,20 @@
+[1] Oana Frunza, Diana Inkpen, and Thomas Tran " A Machine Learning Approach for Identifying Disease-Treatment Relationsin Short Texts" vol. 23, 2011.
+[2] B. Rosario and M.A. Hearst, “Semantic Relations in Bioscience Text,” Proc. 42nd Ann. Meeting on Assoc. for Computational Linguistics, vol. 430, 2004.
+
+Qin, Z., 2006, Naive bayes classification given probability estimation trees.
+
+MEDLINE (Medical Literature Analysis and Retrieval System Online)
+
+ It is a bibliographic database of life sciences and biomedical information. It includes information from academic journals covering medicine, nursing, pharmacy, dentistry, veterinary medicine, and health care. 
+
+Compiled by the United States National Library of Medicine (NLM),
+
+10fluhh010129
+
+The University of Texas at Dallas
+Admission and Enrollment Services
+800 W Campbell Rd
+Richardson TX 75080-3021
+
+
+Graduate School, 223 Adams Hall, Dekalb, IL 60115.
